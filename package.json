@@ -1,0 +1,11 @@
+{
+  "name": "bully-bot",
+  "version": "1.0.0",
+  "description": "Doesn't Bully users",
+  "main": "bot.js",
+  "author": "thorsthunder",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "winston2": "^1.0.3"
+  }
+}
